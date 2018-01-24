@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "732925995291",
+    "firebase_url": "https://chatwithme-977.firebaseio.com",
+    "project_id": "chatwithme-977",
+    "storage_bucket": "chatwithme-977.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732925995291:android:6afba1def4e616d1",
+        "android_client_info": {
+          "package_name": "com.arjunshrestha.chatwithme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732925995291-o63j43s1o48klaqnni13mv4cc86q6c7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7MjhLSn8udsxaG1wEKCqWCYAPKOOzaYU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
